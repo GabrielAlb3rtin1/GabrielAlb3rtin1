@@ -1,37 +1,7 @@
+Olá, me chamo Gabriel, prazer em te-ló aqui. 
 
-const nome_cartao = "LU";
-const numero_cartao = 12345678;
-const codigo_verificador = 321;
+Sou um iniciante em programação, e um entusiasta pelo desenvolvimento Web, com conhecimento em HTML, CSS e JavaScript. 
 
-function verificar_dados_cartao (nome, numero, codigo){
-  const nome_correto = nome === nome_cartao;
-  if(nome_correto){
-    console.log("nome está correto");
-  } else{
-    console.log("nome está errado");
-  }
-  
-  const numero_correto = numero === numero_cartao;
-  if(numero_correto){
-    console.log("numero está correto");
-  } else{
-    console.log("numero está errado");
-  }
-  
-  const codigo_correto = codigo === codigo_verificador;
-  if(codigo_correto){
-    console.log("codigo está correto");
-  } else{
-    console.log("codigo está errado");
-  }
-  
-  const todos_os_dados_corretos = nome_correto
-      && numero_correto
-      && codigo_correto;
-  
-  return todos_os_dados_corretos;
-}
-  
-  const cartao_valido = verificar_dados_cartao("LU", 12345678, 123);
-  console.log(cartao_valido);
-  
+Tendo meu primeiro emprego na área de logística, como jovem aprendiz, com isso, tiver a oportunidade de crescer e poder trabalhar em diversas áreas dentro da empresa Unilog, onde passei por setores de faturamento, com atribuições em emissão de conhecimentos, geração de contratos e diversos outros procedimentos. Também pela parte administrativa, que na qual tiver a oportunidade de aprender toda conjuntura da empresa, como setores e hierarquias, dentre outros departamentos onde aprendi e contribui. 
+
+Desposto disso, venho me aprofundado em meus estudos em programação com enforque a área de Front-End, com expertise em HTML, CSS e JvaScript.
